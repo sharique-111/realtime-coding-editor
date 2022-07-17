@@ -1,8 +1,7 @@
-Live at 
+Live at  <br/>
 https://code-collab-editor.herokuapp.com/
-  
-  
-Commands for use:
-npm install react-scripts
-npm run start:front 
-npm server:dev
+<br/> <br/>
+Commands for use:  <br/>
+npm install react-scripts  <br/>
+npm run start:front  <br/>
+npm server:dev  <br/>
